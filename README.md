@@ -1,13 +1,15 @@
 ### Hello! 👋 
 ### My name is [Philips Nguyen](https://www.philipsnguyen.com/)
 
+<img align="right" alt="img" src="https://philipsweb.blob.core.windows.net/$web/Yourguyphil_Logo.png" width="50%" height="auto" />
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philips-nguyen)
 [![Discord](https://img.shields.io/badge/-Yourguyphil-blue?style=flat&logo=Discord&logoColor=white)](https://discord.gg/n3qT9QEQf5)
 [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:philips.nguyen96@gmail.com)
 
 Welcome to my Github page! I am a backend software engineer that specializes in building APIs and enjoys game dev in my free time! 
 
-<img align="right" alt="img" src="https://philipsweb.blob.core.windows.net/$web/Yourguyphil_Logo.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://philipsweb.blob.core.windows.net/$web/Philips, The Card Invoker.png" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - [BattleSlimes](https://www.battleslimes.com/): A NFT Monster collection game! Featuring a public facing gRPC and REST API. 
