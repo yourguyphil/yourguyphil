@@ -14,7 +14,7 @@ Welcome to my Github page! I am a backend software engineer that specializes in 
 #### 🌱 Things I am currently working on: 
 - [Membership Platform](https://membershipsystemdev.veym.net/): A HR directory system for the [Vietnamese Eucharistic Youth Movement](https://veym.net/). Main interface is [VEYM Portal](https://members.veym.net/).
 - [Faklandia](https://faklandia.com/): One of the many static websites I help maintain. This one is special as it is owned by a friend and where I spend alot of my Friday nights!
-- [Philips Nguyen Master Class](https://coaching.philipsnguyen.com/)): Search Engine Optimized website built to market to new clients the card game coaching that I offer!
+- [Philips Nguyen Master Class](https://coaching.philipsnguyen.com/): Search Engine Optimized website built to market to new clients the card game coaching that I offer!
 
 #### :muscle: Things I am challenging myself with:
 - Working on my DevOps skills, ramping up Kubernetes/Docker/Helm/ infrastucture as code knoweldge. 
